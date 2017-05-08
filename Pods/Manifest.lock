@@ -1,0 +1,30 @@
+PODS:
+  - GoogleMaps (2.0.1):
+    - GoogleMaps/Maps (= 2.0.1)
+  - GoogleMaps/Base (2.0.1)
+  - GoogleMaps/Maps (2.0.1):
+    - GoogleMaps/Base (= 2.0.1)
+  - GooglePlaces (2.0.1):
+    - GoogleMaps/Base (= 2.0.1)
+  - GPUImage (0.1.7)
+  - JSONModel (1.7.0)
+  - MapsIndoors (1.6.35):
+    - GoogleMaps (= 2.0.1)
+    - JSONModel (~> 1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - GPUImage (~> 0.1.7)
+  - MapsIndoors
+
+SPEC CHECKSUMS:
+  GoogleMaps: f09da64fc987c1aa29394567c3cab5a3df83c402
+  GooglePlaces: 72fab1d1651c6df0322f2aad245ffb15b80d3c56
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  MapsIndoors: 9c8d8f046ce6f79ab7b4e4fd74991d6ce682ccb5
+
+PODFILE CHECKSUM: a4a0b48648b16c4e0f373d0b65b639e50947d071
+
+COCOAPODS: 1.2.0

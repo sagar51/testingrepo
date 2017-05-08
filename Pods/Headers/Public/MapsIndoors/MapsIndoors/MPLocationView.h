@@ -1,0 +1,1 @@
+../../../../MapsIndoors/MapsIndoors.framework/Versions/A/Headers/MPLocationView.h
